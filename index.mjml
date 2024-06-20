@@ -8,10 +8,9 @@
   </mj-head>
 
   <mj-body>
-    <mj-wrapper padding="0px" background-color="#ffffff">
-
-      <mj-section padding-top="60px" padding-bottom="0" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-1.jpg" background-repeat="no-repeat">
-        <mj-column>
+    <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-1.jpg" background-repeat="no-repeat">
+      <mj-section padding-top="60px" padding-bottom="0px" >
+        <mj-column >
           <mj-text padding-top="4px" padding-bottom="4px" align="center" font-size="40px" color="#ffffff" font-family="Arial, Helvetica, sans-serif;">
             Zapalenie
           </mj-text>
@@ -24,14 +23,14 @@
           <mj-text padding-top="4px" padding-bottom="4px" align="center" font-size="40px" color="#ffffff" font-family="Arial, Helvetica, sans-serif;">
             ekspertów
           </mj-text>
-
-
           <mj-image align="right" width="230px" height="230px" src="https://evgenydibrovsky.github.io/newsletter-7/images/text.png" alt="Zobacz ponownie"></mj-image>
-          <mj-text padding-left="15%" font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif; ">
+         <mj-text  background-color="#ffffff" padding-left="15%" font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif; ">
             Szanowni Państwo,
           </mj-text>
         </mj-column>
       </mj-section>
+    </mj-wrapper>
+
 
       <mj-section padding="0" background-color="#ffffff">
         <mj-column width="550px">
@@ -58,13 +57,13 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      
+
       <mj-section padding-top="0" background-color="#ffffff">
         <mj-column width="550px">
           <mj-image align="center" src="https://evgenydibrovsky.github.io/newsletter-7/images/video.jpg" alt="Zobacz wideo" href="https://www.youtube.com/watch?v=IcxU5jzFlGw"></mj-image>
         </mj-column>
       </mj-section>
-    </mj-wrapper>
+
 
     <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-pg-2.jpg" background-repeat="no-repeat">
       <mj-section padding-bottom="0">
@@ -75,8 +74,8 @@
         </mj-column>
       </mj-section>
       <mj-section padding="0">
-        <mj-column width="300px">
-          <mj-image align="center" width="250px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-1.png" />
+        <mj-column>
+          <mj-image align="center" width="234px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-1.png" />
           <mj-text padding-bottom="0" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
             Dr Luisa Cornegliani
           </mj-text>
@@ -85,8 +84,8 @@
           </mj-text>
         </mj-column>
 
-        <mj-column width="300px">
-          <mj-image align="center" width="253px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-2.png" />
+        <mj-column>
+          <mj-image align="center" width="234px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-2.png" />
           <mj-text padding-bottom="0" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
             Dr. Natalie Barnard
           </mj-text>
