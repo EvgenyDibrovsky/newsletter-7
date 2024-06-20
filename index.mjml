@@ -8,9 +8,9 @@
   </mj-head>
 
   <mj-body>
-      <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-bg-2.jpg" background-repeat="no-repeat">
+      <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-pg-1.jpg" background-repeat="no-repeat">
 
-    <mj-section padding-top="35px"  padding-bottom="0" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-1.jpg" background-repeat="no-repeat">
+    <mj-section padding-top="35px"  padding-bottom="0" background-color="#ffffff" >
       <mj-column>
         <mj-text align="center" font-size="40px" color="#ffffff" font-family="Arial, Helvetica, sans-serif;" line-height="40px">
           <p>Zapalenie </p>
@@ -57,6 +57,7 @@
       </mj-column>
     </mj-section>
  </mj-wrapper>
+ 
     <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-2.jpg" background-repeat="no-repeat">
       <mj-section padding="0">
         <mj-column>
