@@ -8,9 +8,9 @@
   </mj-head>
 
   <mj-body>
-    <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-1.jpg" background-repeat="no-repeat" background-size="cover">
-      <mj-section padding-top="60px" padding-bottom="0px" >
-        <mj-column >
+    <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-1.jpg" background-repeat="no-repeat" background-position="top" background-size="cover">
+      <mj-section padding-top="60px" padding-bottom="0px">
+        <mj-column>
           <mj-text padding-top="4px" padding-bottom="4px" align="center" font-size="40px" color="#ffffff" font-family="Arial, Helvetica, sans-serif;">
             Zapalenie
           </mj-text>
@@ -24,7 +24,7 @@
             ekspertów
           </mj-text>
           <mj-image align="right" width="230px" height="230px" src="https://evgenydibrovsky.github.io/newsletter-7/images/text.png" alt="Zobacz ponownie"></mj-image>
-         <mj-text  background-color="#ffffff" padding-left="15%" font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif; ">
+          <mj-text background-color="#ffffff" padding-left="15%" font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif; ">
             Szanowni Państwo,
           </mj-text>
         </mj-column>
@@ -32,40 +32,40 @@
     </mj-wrapper>
 
 
-      <mj-section padding="0" background-color="#ffffff">
-        <mj-column width="550px">
-          <mj-text padding-top="0" font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="20px">
-            <p>Dziękujemy za udział w webinarze „Zapalenie ucha zewnętrznego:<br>
-              Najlepsze porady ekspertów”. Mamy nadzieję, że webinar był dla<br>
-              Państwa interesujący i dostarczył praktycznych porad, które ułatwią<br>
-              Państwu rozwiązywanie najczęstszych problemów występujących<br>
-              podczas leczenia zapalenia ucha zewnętrznego.</p>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column width="550px">
+        <mj-text padding-top="0" font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="20px">
+          <p>Dziękujemy za udział w webinarze „Zapalenie ucha zewnętrznego:<br>
+            Najlepsze porady ekspertów”. Mamy nadzieję, że webinar był dla<br>
+            Państwa interesujący i dostarczył praktycznych porad, które ułatwią<br>
+            Państwu rozwiązywanie najczęstszych problemów występujących<br>
+            podczas leczenia zapalenia ucha zewnętrznego.</p>
 
-            <p>Jeżeli nie mogli Państwo uczestniczyć w webinarze, bądź chcą<br>
-              obejrzeć go raz jeszcze lub udostępnić innym specjalistom,<br>
-              wystarczy kliknąć w zamieszczony poniżej przycisk!</p>
+          <p>Jeżeli nie mogli Państwo uczestniczyć w webinarze, bądź chcą<br>
+            obejrzeć go raz jeszcze lub udostępnić innym specjalistom,<br>
+            wystarczy kliknąć w zamieszczony poniżej przycisk!</p>
 
-            <p>Pragniemy przypomnieć, że webinar oferuje wsparcie w leczeniu<br>
-              zapalenia ucha zewnętrznego poprzez dostęp do cennych<br>
-              wskazówek dotyczących:</p>
+          <p>Pragniemy przypomnieć, że webinar oferuje wsparcie w leczeniu<br>
+            zapalenia ucha zewnętrznego poprzez dostęp do cennych<br>
+            wskazówek dotyczących:</p>
 
-            <p>
-              - Wyboru najlepszej strategii postępowania<br>
-              - Technik komunikacji<br>
-              - Przeciwdziałania lękowi przed badaniem ucha
-            </p>
-          </mj-text>
-        </mj-column>
-      </mj-section>
+          <p>
+            - Wyboru najlepszej strategii postępowania<br>
+            - Technik komunikacji<br>
+            - Przeciwdziałania lękowi przed badaniem ucha
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
-      <mj-section padding-top="0" background-color="#ffffff">
-        <mj-column width="550px">
-          <mj-image align="center" src="https://evgenydibrovsky.github.io/newsletter-7/images/video.jpg" alt="Zobacz wideo" href="https://www.youtube.com/watch?v=IcxU5jzFlGw"></mj-image>
-        </mj-column>
-      </mj-section>
+    <mj-section padding-top="0" background-color="#ffffff">
+      <mj-column width="550px">
+        <mj-image align="center" src="https://evgenydibrovsky.github.io/newsletter-7/images/video.jpg" alt="Zobacz wideo" href="https://www.youtube.com/watch?v=IcxU5jzFlGw"></mj-image>
+      </mj-column>
+    </mj-section>
 
 
-    <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-pg-2.jpg" background-repeat="no-repeat">
+    <mj-wrapper padding-top="1px" background-color="#4c2566" background-position="top" background-size="20px">
       <mj-section padding-bottom="0">
         <mj-column>
           <mj-text align="center" font-size="35px" font-weight="700" color="#C7D50D" font-family="Arial, Helvetica, sans-serif">
@@ -73,7 +73,9 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section padding="0">
+    </mj-wrapper>
+
+      <mj-section padding="0" background-color="#fff">
         <mj-column>
           <mj-image align="center" width="234px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-1.png" />
           <mj-text padding-bottom="0" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
@@ -95,6 +97,8 @@
         </mj-column>
       </mj-section>
 
+
+    <mj-wrapper padding="0px" background-color="#ffffff">
       <mj-section padding="0">
         <mj-column width="550px">
           <mj-text padding-bottom="0" font-size="17px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="20px">
@@ -105,7 +109,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="0" padding-bottom="235px">
+      <mj-section padding-top="0" padding-bottom="235px" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-2.jpg" background-repeat="no-repeat">
         <mj-column width="220px"></mj-column>
         <mj-column width="200px">
           <mj-text padding-top="0" font-size="18px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="22px">
