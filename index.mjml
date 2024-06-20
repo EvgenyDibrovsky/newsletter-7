@@ -1,0 +1,140 @@
+<mjml>
+  <mj-head>
+    <!-- <mj-include path="./styles.css" type="css" /> -->
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+
+    <mj-breakpoint width="480px" />
+    <mj-title>Zapalenie ucha zewnętrznego:NAJLEPSZE PORADY ekspertów</mj-title>
+    <mj-preview>Zapalenie ucha zewnętrznego: NAJLEPSZE PORADY ekspertów</mj-preview>
+
+    <mj-style inline="inline">
+      .custom-style div {
+        color: grey !important;
+      }
+    </mj-style>
+    <mj-style>
+      .custom-style-2 div {
+        color: red !important;
+      }
+    </mj-style>
+
+
+  </mj-head>
+
+  <mj-body>
+    <mj-section padding-top="32px"  padding-bottom="0" background-color="#ffffff" background-url="./images/bg-section-1.jpg" background-repeat="no-repeat">
+      <mj-column>
+        <mj-text align="center" font-size="40px" color="#ffffff" font-family="Arial, Helvetica, sans-serif; ">
+          <p>Zapalenie </p>
+          <p>ucha zewnętrznego:</p>
+          <p style="color: #C7D50D; font-weight: 700;"> NAJLEPSZE PORADY </p>
+          <p style="line-height: 20px">ekspertów</p>
+        </mj-text>
+        <mj-image align="right" width="230px" height="230px" src="./images/text.png" alt="Zobacz ponownie"></mj-image>
+        <mj-text padding-left="15%" font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif; ">
+          Szanowni Państwo,
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column width="500px">
+        <mj-text font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="21px">
+          <p>Dziękujemy za udział w webinarze „Zapalenie ucha zewnętrznego:<br>
+            Najlepsze porady ekspertów”. Mamy nadzieję, że webinar był dla<br>
+            Państwa interesujący i dostarczył praktycznych porad, które ułatwią<br>
+            Państwu rozwiązywanie najczęstszych problemów występujących<br>
+            podczas leczenia zapalenia ucha zewnętrznego.</p>
+
+          <p>Jeżeli nie mogli Państwo uczestniczyć w webinarze, bądź chcą<br>
+            obejrzeć go raz jeszcze lub udostępnić innym specjalistom,<br>
+            wystarczy kliknąć w zamieszczony poniżej przycisk!</p>
+
+          <p>Pragniemy przypomnieć, że webinar oferuje wsparcie w leczeniu<br>
+            zapalenia ucha zewnętrznego poprzez dostęp do cennych<br>
+            wskazówek dotyczących:</p>
+
+          <p>
+            - Wyboru najlepszej strategii postępowania<br>
+            - Technik komunikacji<br>
+            - Przeciwdziałania lękowi przed badaniem ucha
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0"padding-bottom="20px" background-color="#ffffff">
+      <mj-column>
+        <mj-image src="./images/video.jpg" alt="Zobacz wideo" href="https://www.youtube.com/watch?v=IcxU5jzFlGw"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding-bottom="10px" background-color="#ffffff" background-url="./images/bg-section-2.jpg" background-repeat="no-repeat">
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text align="center" font-size="35px" font-weight="700" color="#C7D50D" font-family="Arial, Helvetica, sans-serif">
+            PRELEGENCI
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image width="250px" src="./images/foto-1.png" />
+          <mj-text align="center" font-size="24px" font-weight="700" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+            <p style="font-size: 24px; font-style: italic">Dr Luisa Cornegliani</p>
+            <p style="font-size: 15px">DVM ECVD</p>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="253px" src="./images/foto-2.png" />
+          <mj-text align="center" font-size="24px" font-weight="700" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+            <p style="font-size: 24px; font-style: italic">Dr. Natalie Barnard</p>
+            <p style="font-size: 15px">BVetMed CertVD DipECVD MRCVS</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column width="580px">
+          <mj-text font-size="19px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="22px">
+            Jeżeli chcieliby Państwo otrzymać więcej informacji o naszej<br>
+            gamie produktów stosowanych w leczeniu zapalenia ucha<br>
+            zewnętrznego, zachęcamy do kontaktu z przedstawicielem<br>
+            handlowym Elanco.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="235px" background-url="./images/bg-section-3.jpg" background-repeat="no-repeat">
+        <mj-column width="200px"></mj-column>
+        <mj-column width="200px">
+          <mj-text font-size="19px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="22px">
+            Do zobaczenia,<br>
+            Zespół Elanco</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-size="9.5px" color="#000000" font-family="Arial, Helvetica, sans-serif" line-height="15px">
+          Elanco i logo z ukośnym znakiem stanowią znaki towarowe firmy Elanco lub jej podmiotów stowarzyszonych.<br>© 2024 Elanco lub jej podmioty stowarzyszone. EM-PL-24-0064</mj-text>
+      </mj-column>
+    </mj-section>
+ 
+ 
+    <mj-section padding-top="5px" padding-bottom="20px" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0" align="center" font-size="9.5px" color="#000000" font-family="Arial, Helvetica, sans-serif" line-height="15px">
+          Polityka prywatności: <a href="https://privacy.elanco.com/pl" target="_blank" rel="noopener noreferrer" style="font-family: Arial, Helvetica, sans-serif; color: #004cbe; font-size: 11px; line-height: 10px;  display: inline-block;" title="Polityka prywatności">Privacy Center (elanco.com)</a>        &nbsp;|&nbsp;
+          Anuluj subskrypcję:
+          <a href="https://preference.elanco.com/pl-PL" target="_blank" rel="noopener noreferrer" style="font-family: Arial, Helvetica, sans-serif; color: #004cbe; font-size: 11px; line-height: 10px;  display: inline-block;" title="Anuluj subskrypcję">Elanco Preference Center</a>
+          &nbsp;|&nbsp;
+          <a href="https://preference.elanco.com/pl-PL" target="_blank" rel="noopener noreferrer" style="font-family: Arial, Helvetica, sans-serif; color: #004cbe; font-size: 11px; line-height: 10px;  display: inline-block;" title="Anuluj subskrypcję">Preference Centre V2</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+  </mj-body>
+</mjml>
