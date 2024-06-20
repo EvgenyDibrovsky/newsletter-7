@@ -8,9 +8,9 @@
   </mj-head>
 
   <mj-body>
-    <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-pg-1.jpg" background-repeat="no-repeat">
+    <mj-wrapper padding="0px" background-color="#ffffff">
 
-      <mj-section padding-top="50px" padding-bottom="0">
+      <mj-section padding-top="60px" padding-bottom="0" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-1.jpg" background-repeat="no-repeat">
         <mj-column>
           <mj-text padding-top="4px" padding-bottom="4px" align="center" font-size="40px" color="#ffffff" font-family="Arial, Helvetica, sans-serif;">
             Zapalenie
@@ -33,9 +33,9 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="0">
+      <mj-section padding="0" background-color="#ffffff">
         <mj-column width="550px">
-          <mj-text padding-top="0" font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="21px">
+          <mj-text padding-top="0" font-size="15px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="20px">
             <p>Dziękujemy za udział w webinarze „Zapalenie ucha zewnętrznego:<br>
               Najlepsze porady ekspertów”. Mamy nadzieję, że webinar był dla<br>
               Państwa interesujący i dostarczył praktycznych porad, które ułatwią<br>
@@ -58,10 +58,10 @@
           </mj-text>
         </mj-column>
       </mj-section>
-
-      <mj-section padding-top="0" padding-bottom="20px">
-    <mj-column width="550px" >
-          <mj-image padding-top="0"  src="https://evgenydibrovsky.github.io/newsletter-7/images/video.jpg" alt="Zobacz wideo" href="https://www.youtube.com/watch?v=IcxU5jzFlGw"></mj-image>
+      
+      <mj-section padding-top="0" background-color="#ffffff">
+        <mj-column width="550px">
+          <mj-image align="center" src="https://evgenydibrovsky.github.io/newsletter-7/images/video.jpg" alt="Zobacz wideo" href="https://www.youtube.com/watch?v=IcxU5jzFlGw"></mj-image>
         </mj-column>
       </mj-section>
     </mj-wrapper>
@@ -75,25 +75,30 @@
         </mj-column>
       </mj-section>
       <mj-section padding="0">
-        <mj-column>
-          <mj-image padding-bottom="0" width="250px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-1.png" />
-          <mj-text padding-bottom="0" align="center" font-size="24px" font-weight="700" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
-            <p style="font-size: 24px; font-style: italic">Dr Luisa Cornegliani</p>
-            <p style="font-size: 15px">DVM ECVD</p>
+        <mj-column width="300px">
+          <mj-image align="center" width="250px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-1.png" />
+          <mj-text padding-bottom="0" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+            Dr Luisa Cornegliani
+          </mj-text>
+          <mj-text align="center" font-size="15px" font-weight="700" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+            DVM ECVD
           </mj-text>
         </mj-column>
-        <mj-column>
-          <mj-image padding-bottom="0" width="253px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-2.png" />
-          <mj-text padding-bottom="0" align="center" font-size="24px" font-weight="700" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
-            <p style="font-size: 24px; font-style: italic">Dr. Natalie Barnard</p>
-            <p style="font-size: 15px">BVetMed CertVD DipECVD MRCVS</p>
+
+        <mj-column width="300px">
+          <mj-image align="center" width="253px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-2.png" />
+          <mj-text padding-bottom="0" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+            Dr. Natalie Barnard
+          </mj-text>
+          <mj-text align="center" font-size="15px" font-weight="700" font-style="italic" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+            BVetMed CertVD DipECVD MRCVS
           </mj-text>
         </mj-column>
       </mj-section>
 
       <mj-section padding="0">
-        <mj-column width="580px">
-          <mj-text padding-bottom="0" font-size="18px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="20px">
+        <mj-column width="550px">
+          <mj-text padding-bottom="0" font-size="17px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="20px">
             Jeżeli chcieliby Państwo otrzymać więcej informacji o naszej<br>
             gamie produktów stosowanych w leczeniu zapalenia ucha<br>
             zewnętrznego, zachęcamy do kontaktu z przedstawicielem<br>
@@ -102,7 +107,7 @@
       </mj-section>
 
       <mj-section padding-top="0" padding-bottom="235px">
-        <mj-column width="200px"></mj-column>
+        <mj-column width="220px"></mj-column>
         <mj-column width="200px">
           <mj-text padding-top="0" font-size="18px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="22px">
             Do zobaczenia,<br>
