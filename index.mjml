@@ -4,17 +4,6 @@
     <mj-title>Zapalenie ucha zewnętrznego:NAJLEPSZE PORADY ekspertów</mj-title>
     <mj-preview>Zapalenie ucha zewnętrznego: NAJLEPSZE PORADY ekspertów</mj-preview>
 
-    <mj-style inline="inline">
-      .photo-center img {
-        margin-left:  auto !important ;
-        margin-right:  auto !important ;
-        text-align: center !important;
-        width:230px !important;
-        height: 230px !important;
-        display: block !important;
-      }
-    </mj-style>
-
   </mj-head>
 
   <mj-body>
@@ -84,8 +73,10 @@
       </mj-section>
 
       <mj-section padding="0">
-        <mj-column css-class="photo-center">
-          <mj-image align="center" width="250px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-1.png" />
+        <mj-column>
+          <mj-text align="center">
+            <img width="234px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-1.png" alt=" Dr Luisa Cornegliani">
+          </mj-text>
           <mj-text padding-bottom="5px" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" font-family="Arial, Helvetica, sans-serif">
             Dr Luisa Cornegliani
           </mj-text>
@@ -95,7 +86,9 @@
         </mj-column>
 
         <mj-column>
-          <mj-image css-class="photo-center" align="center" width="250px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-2.png" />
+          <mj-text align="center">
+            <img width="234px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-2.png" alt="Dr. Natalie Barnard">
+          </mj-text>
           <mj-text padding-bottom="5px" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" font-family="Arial, Helvetica, sans-serif">
             Dr. Natalie Barnard
           </mj-text>
