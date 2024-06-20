@@ -65,7 +65,7 @@
     </mj-section>
 
 
-    <mj-wrapper padding-top="1px" background-color="#4c2566" background-position="top" background-size="20px">
+    <mj-wrapper padding="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-2.jpg" background-repeat="no-repeat" background-position="top" background-size="cover">
       <mj-section padding-bottom="0">
         <mj-column>
           <mj-text align="center" font-size="35px" font-weight="700" color="#C7D50D" font-family="Arial, Helvetica, sans-serif">
@@ -73,7 +73,7 @@
           </mj-text>
         </mj-column>
       </mj-section>
-    </mj-wrapper>
+    
 
       <mj-section padding="0" background-color="#fff">
         <mj-column>
@@ -96,7 +96,7 @@
           </mj-text>
         </mj-column>
       </mj-section>
-
+</mj-wrapper>
 
     <mj-wrapper padding="0px" background-color="#ffffff">
       <mj-section padding="0">
@@ -109,7 +109,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="0" padding-bottom="235px" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-2.jpg" background-repeat="no-repeat">
+      <mj-section padding-top="0" padding-bottom="235px" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-2.jpg" background-repeat="no-repeat" background-position="bottom" background-size="cover">
         <mj-column width="220px"></mj-column>
         <mj-column width="200px">
           <mj-text padding-top="0" font-size="18px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="22px">
