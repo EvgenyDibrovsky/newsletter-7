@@ -69,7 +69,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-wrapper padding-bottom="10px" background-color="#ffffff" background-url="./images/bg-section-2.jpg" background-repeat="no-repeat">
+    <mj-wrapper padding="0px" background-color="#ffffff" background-url="./images/bg-section-2.jpg" background-repeat="no-repeat">
       <mj-section padding="0">
         <mj-column>
           <mj-text align="center" font-size="35px" font-weight="700" color="#C7D50D" font-family="Arial, Helvetica, sans-serif">
@@ -114,7 +114,7 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section padding="0px" background-color="#ffffff">
+    <mj-section padding-top="10px" padding-bottom="0px" background-color="#ffffff">
       <mj-column>
         <mj-text font-size="9.5px" color="#000000" font-family="Arial, Helvetica, sans-serif" line-height="15px">
           Elanco i logo z ukośnym znakiem stanowią znaki towarowe firmy Elanco lub jej podmiotów stowarzyszonych.<br>© 2024 Elanco lub jej podmioty stowarzyszone. EM-PL-24-0064</mj-text>
