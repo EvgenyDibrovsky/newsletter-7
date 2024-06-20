@@ -65,7 +65,7 @@
     </mj-section>
 
 
-    <mj-wrapper padding-top="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-2.jpg" background-repeat="no-repeat" background-position="top" >
+    <mj-wrapper padding-top="0px" background-color="#ffffff" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-2.jpg" background-repeat="no-repeat" background-position="top">
       <mj-section padding-bottom="0">
         <mj-column>
           <mj-text align="center" font-size="35px" font-weight="700" color="#C7D50D" font-family="Arial, Helvetica, sans-serif">
@@ -73,35 +73,40 @@
           </mj-text>
         </mj-column>
       </mj-section>
-    
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image align="center" width="234px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-1.png" />
-          <mj-text padding-bottom="0" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="300px">
+          <mj-image width="250px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-1.png" />
+          <mj-text padding-bottom="5px" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" font-family="Arial, Helvetica, sans-serif">
             Dr Luisa Cornegliani
           </mj-text>
-          <mj-text align="center" font-size="15px" font-weight="700" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+          <mj-text padding="0" align="center" font-size="14px" font-weight="700" color="#522873" font-family="Arial, Helvetica, sans-serif">
             DVM ECVD
           </mj-text>
         </mj-column>
 
-        <mj-column>
-          <mj-image align="center" width="234px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-2.png" />
-          <mj-text padding-bottom="0" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+           <mj-column width="300px">
+          <mj-image width="250px" src="https://evgenydibrovsky.github.io/newsletter-7/images/foto-2.png" />
+          <mj-text padding-bottom="5px" align="center" font-size="24px" font-weight="700" font-style="italic" color="#522873" font-family="Arial, Helvetica, sans-serif">
             Dr. Natalie Barnard
           </mj-text>
-          <mj-text align="center" font-size="15px" font-weight="700" font-style="italic" color="#522873" line-height="14px" font-family="Arial, Helvetica, sans-serif">
+          <mj-text padding="0" align="center" font-size="14px" font-weight="700" font-style="italic" color="#522873" font-family="Arial, Helvetica, sans-serif">
             BVetMed CertVD DipECVD MRCVS
           </mj-text>
         </mj-column>
       </mj-section>
-</mj-wrapper>
+      </nj-column>
+
+
+    </mj-wrapper>
 
     <mj-wrapper padding="0px" background-color="#ffffff">
       <mj-section padding="0">
         <mj-column width="550px">
-          <mj-text padding-bottom="0" font-size="17px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="20px">
+          <mj-text padding-bottom="0" font-size="18px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="22px">
             Jeżeli chcieliby Państwo otrzymać więcej informacji o naszej<br>
             gamie produktów stosowanych w leczeniu zapalenia ucha<br>
             zewnętrznego, zachęcamy do kontaktu z przedstawicielem<br>
@@ -109,8 +114,8 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="0" padding-bottom="235px" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-3.jpg" background-repeat="no-repeat" background-position="bottom" background-size="cover">
-        <mj-column width="220px"></mj-column>
+      <mj-section padding-top="0" padding-bottom="240px" background-url="https://evgenydibrovsky.github.io/newsletter-7/images/bg-section-3.jpg" background-repeat="no-repeat" background-position="top" background-size="cover">
+        <mj-column width="250px"></mj-column>
         <mj-column width="200px">
           <mj-text padding-top="0" font-size="18px" color="#6D6E71" font-family="Arial, Helvetica, sans-serif" line-height="22px">
             Do zobaczenia,<br>
